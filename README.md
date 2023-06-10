@@ -24,6 +24,10 @@ Course: Object Oriented Programming (COMP6699001)
 - deleteProduct.java
 - billingPage.java
 
+- Connector.java (for SQL)
+- user.java (for arrayList)
+- userStorage.java (for arrayList)
+
 #
 
 ## 📹 Video Demo Link
